@@ -1,2 +1,2 @@
 # Go-to-Goal-
-Go to goal project - Driving a differential Drive robot from an initial point to a desired position
+This is a simple go to goal project that drives a differential drive robot from an initial point in space to a desired position
